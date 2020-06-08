@@ -1,0 +1,9 @@
+x
+black	Fgfr2
+blue	Col4a2
+greenyellow	Rab9b
+magenta	Cdan1
+pink	Cldn4
+purple	Lum
+tan	Aldh18a1
+turquoise	Tmbim1
